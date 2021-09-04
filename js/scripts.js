@@ -27,9 +27,9 @@ window.onload = function() {
     'I do what most folks do (I guess?)',
     'I code!',
     'Alright, I do some legit work too.',
-    'I\'m a data scientist!',
+    'I work as a data scientist!',
     'Wanna have a chat? I\'d love to!<br> You can contact me at <a href="mailto:hello@arubhardwaj.me">hello@arubhardwaj.me</a>',
-    '<a target="_blank" href="https://twitter.com/arubhardwaj_">twitter.com/arubhardwaj_</a><br><a target="_blank" href="https://github.com/arubhardwaj">github.com/arubhardwaj</a>',
+    'Here are some social links of mine:<br><a target="_blank" href="https://twitter.com/arubhardwaj_">twitter.com/arubhardwaj_</a><br><a target="_blank" href="https://github.com/arubhardwaj">github.com/arubhardwaj</a><br><a target="_blank" href="https://in.linkedin.com/in/arubhardwaj">https://in.linkedin.com/in/arubhardwaj</a>',
     getCurrentTime(),
     '👀 Aru.'
   ]
