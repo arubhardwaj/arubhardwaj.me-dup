@@ -24,12 +24,9 @@ window.onload = function() {
   var messages = [
     'Hey there 👋',
     'I\'m Aru',
-    'I do what most folks do (I guess?)',
-    'I code!',
-    'Alright, I do some legit work too.',
-    'I work as a data scientist!',
+    'I work as a freelance data scientist!',
     'Wanna have a chat? I\'d love to!<br> You can schedule a meeting using <a href="https://calendly.com/arubhardwaj/15min">my scheduling page</a>',
-    'Here are some social links of mine:<br><a target="_blank" href="https://twitter.com/arubhardwaj_">twitter.com/arubhardwaj_</a><br><a target="_blank" href="https://github.com/arubhardwaj">github.com/arubhardwaj</a><br><a target="_blank" href="https://in.linkedin.com/in/arubhardwaj">https://in.linkedin.com/in/arubhardwaj</a>',
+    'Here are some social links of mine:<br><a target="_blank" href="https://twitter.com/arubhardwaj_">twitter.com/arubhardwaj_</a><br><a target="_blank" href="https://github.com/arubhardwaj">github.com/arubhardwaj</a>',
     getCurrentTime(),
     '👀 Aru.'
   ]
