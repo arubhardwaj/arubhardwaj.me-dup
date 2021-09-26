@@ -25,7 +25,7 @@ window.onload = function() {
     'Hey there 👋',
     'I\'m Aru',
     'I work as a freelance data scientist!',
-    'Wanna have a chat? I\'d love to!<br> You can schedule a meeting using <a href="https://calendly.com/arubhardwaj/15min">my scheduling page</a>',
+    'Wanna have a chat? I\'d love to!<br> You can schedule a meeting using <a href="https://calendly.com/arubhardwaj/meet">my scheduling page</a>',
     'Here are some social links of mine:<br><a target="_blank" href="https://twitter.com/arubhardwaj_">twitter.com/arubhardwaj_</a><br><a target="_blank" href="https://github.com/arubhardwaj">github.com/arubhardwaj</a>',
     getCurrentTime(),
     '👀 Aru.'
